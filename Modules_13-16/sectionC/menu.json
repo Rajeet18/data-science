@@ -1,0 +1,62 @@
+[
+{
+"name":"Paneer Butter Masala",
+"cuisine":"Indian",
+"price":250,
+"veg":true
+},
+{
+"name":"Veg Biryani",
+"cuisine":"Indian",
+"price":220,
+"veg":true
+},
+{
+"name":"Chicken Biryani",
+"cuisine":"Indian",
+"price":320,
+"veg":false
+},
+{
+"name":"Margherita Pizza",
+"cuisine":"Italian",
+"price":350,
+"veg":true
+},
+{
+"name":"Pepperoni Pizza",
+"cuisine":"Italian",
+"price":450,
+"veg":false
+},
+{
+"name":"Veg Burger",
+"cuisine":"Fast Food",
+"price":180,
+"veg":true
+},
+{
+"name":"Chicken Burger",
+"cuisine":"Fast Food",
+"price":250,
+"veg":false
+},
+{
+"name":"Veg Noodles",
+"cuisine":"Chinese",
+"price":200,
+"veg":true
+},
+{
+"name":"Fried Rice",
+"cuisine":"Chinese",
+"price":190,
+"veg":true
+},
+{
+"name":"Sushi",
+"cuisine":"Japanese",
+"price":550,
+"veg":false
+}
+]
