@@ -1,9 +1,9 @@
 streamlit
 flask
-pandas
 requests
-joblib
+pandas
 scikit-learn
+joblib
 langchain
 langchain-openai
-openai
+python-dotenv
